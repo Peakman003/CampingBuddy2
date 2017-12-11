@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CampingBuddy2</string>
+    <string name="title">TENT</string>
+    <string name="tentinfo1">ในการสร้างที่หลบภัยนั้นควรจะคำนึงถึงหลักการต่อไปนี้คือ</string>
+    <string name="tentinfo2">1.มีวัสดุที่ต้องใช้ในการสร้าง \n2.มีพื้นที่กว้างพอและราบเรียบพอให้นอนได้สบาย\n3.ไม่อยู่ในบริเวรตีนเขาเพราะอาจเกิดน้ำท่วมฉับพลันได้\n4.ต้องสามารถป้องกันสัตว์ป่าได้\n5.ปราศจากแมลงและสัตว์มีพิษ
+</string>
+
+</resources>
